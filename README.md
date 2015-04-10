@@ -1,5 +1,7 @@
 #React.js源码分析
 ====
+
+[![Join the chat at https://gitter.im/janryWang/react-study](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/janryWang/react-study?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 为什么要分析React.js的源码？
 
 首先，因为我本人比较喜欢探索，甚至挑战，还有通过阅读，研究源码能给自己很多帮助。
